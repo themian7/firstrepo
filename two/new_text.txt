@@ -1,1 +1,3 @@
 this is new text...to check git checkout
+
+a new line added to check how all file effected.
